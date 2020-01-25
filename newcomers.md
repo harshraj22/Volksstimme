@@ -53,5 +53,5 @@
 <br>
 
 ## Want to review someone's pull request ?
-* Checkout to pr branch by ``` git fetch origin pull/<ID>/head:<BRANCHNAME> ``` . ID is the pull request id (headed by a # in pull request) and BRANCHNAME is some random name to newly created local branch.
+* Checkout to pr branch by ``` git fetch upstream pull/<ID>/head:<BRANCHNAME> ``` . ID is the pull request id (headed by a # in pull request) and BRANCHNAME is some random name to newly created local branch.
 * Check the changes, switch to develop, and delete the branch locally. Since you haven't pushed this new branch to remote, no need to try deleting it from remote.
