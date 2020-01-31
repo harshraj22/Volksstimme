@@ -9,7 +9,7 @@
    * Run ```git remote add upstream https://github.com/harshraj22/Volksstimme.git```
        * This sets default remote feature tracking branch for the current branch. Any git pull will bring the commits from remote develop branch and merge to current switched branch. confirm using ```git remote -v```
        *  ```git fetch --all``` to fetch everything from remote clone.
-   * Checkout to local develop branch and set remote develop branch as tracking ```git checkout develop``` .
+   * Checkout to local develop branch and set remote develop branch as tracking ```git checkout developent``` .
    * Now all pr branches are checked out from this develop branch.
 
 
